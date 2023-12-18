@@ -1,0 +1,1 @@
+java -jar status_changer.jar
